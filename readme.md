@@ -30,13 +30,13 @@
     </td>
     <td align="center">
       <a href="https://github.com/Nadaeji">
-        <img src="" width="150" alt="hojin"/><br /><hr/>
+        <img src="https://avatars.githubusercontent.com/u/138211013?v=4" width="150" alt="hojin"/><br /><hr/>
         나지윤
       </a><br />
     </td>
     <td align="center">
       <a href="https://github.com/Kimjeongwon12">
-        <img src="" width="150" alt="hojin"/><br /><hr/>
+        <img src="https://avatars.githubusercontent.com/u/109503974?v=4" width="150" alt="hojin"/><br /><hr/>
         김정원
       </a><br />
     </td>
