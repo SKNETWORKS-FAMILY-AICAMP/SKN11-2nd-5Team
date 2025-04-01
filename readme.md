@@ -173,7 +173,7 @@
 <br/><br/><br/>
 
 ## 🏦 EDA
-
+https://ohgiraffers.notion.site/EDA-1c8649136c1180769a21dc042e28a60c?pvs=4
 ---
 <br/><br/><br/>
 
