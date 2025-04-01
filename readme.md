@@ -13,7 +13,7 @@
 
 ## 🏦 팀 소개
 
-- **팀명**: 
+- **팀명**: 오인조
 <table>
   <thead>
     <td align="center">
